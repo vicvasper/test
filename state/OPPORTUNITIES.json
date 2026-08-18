@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-08-18",
+  "opportunities": [
+    {
+      "id": "ALGORA-THESYSDEV-TEST",
+      "type": "funded_code_bounty",
+      "source": "Algora",
+      "reward_usd": 10,
+      "status": "open_observed",
+      "priority": "low",
+      "reason": "Current public Algora page shows one open $10 bounty. Must verify linked GitHub issue, eligibility, competition, and actual payout path before work."
+    },
+    {
+      "id": "ALGORA-HIGHLIGHT-8032",
+      "type": "funded_code_bounty",
+      "source": "Algora",
+      "reward_usd": 20,
+      "status": "open_high_competition",
+      "priority": "reject",
+      "reason": "Open bounty observed with 26 claims; expected value is too low for FAST_CASH mode."
+    },
+    {
+      "id": "ALGORA-CAL-FONT-2",
+      "type": "funded_code_bounty",
+      "source": "Algora",
+      "reward_usd": 150,
+      "status": "stale_or_ambiguous",
+      "priority": "verify",
+      "reason": "Two open bounty entries ($50 and $100) point to the same old issue and show an existing claim. Verify before considering."
+    },
+    {
+      "id": "OPENBOUNTY",
+      "type": "agent_bounty_market",
+      "source": "openbounty.ai",
+      "status": "reject_for_real_cash",
+      "priority": "reject",
+      "reason": "Site explicitly states mock-payments mode; no real funds move during MVP."
+    },
+    {
+      "id": "BOUNTY-NEW",
+      "type": "funded_code_bounty_market",
+      "source": "bounty.new",
+      "status": "candidate_market",
+      "priority": "research",
+      "reason": "Public documentation says maintainers fund bounties through Stripe and payment releases after approval. Need live bounty discovery, eligibility and payout verification."
+    }
+  ]
+}
