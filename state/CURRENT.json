@@ -1,0 +1,17 @@
+{
+  "mission": "ECONOMY",
+  "target_net_eur": 6000,
+  "extended_target_eur": 9800,
+  "starting_budget_eur": 0,
+  "mode": "FAST_CASH",
+  "received_eur": 0,
+  "withdrawable_eur": 0,
+  "pending_eur": 0,
+  "primary_metric": "NET_WITHDRAWABLE_EUR",
+  "scope": {
+    "conventional_employment": "rejected",
+    "recurring_user_productive_labor": "rejected",
+    "agent_operable_income": "preferred"
+  },
+  "status": "BOOTSTRAPPED"
+}
