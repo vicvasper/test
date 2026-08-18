@@ -1,0 +1,17 @@
+{
+  "queue": [
+    {
+      "priority": 1,
+      "action": "Discover and verify currently funded bounty.new tasks with real payout, low competition, and deliverables that can be produced substantially end-to-end by the agent."
+    },
+    {
+      "priority": 2,
+      "action": "Resolve the exact linked issue and eligibility of the currently open thesysdev Algora bounty; reject if expected value is negligible."
+    },
+    {
+      "priority": 3,
+      "action": "Search additional outcome-paid software/data/document automation markets rather than conventional employment or user-performed freelancing."
+    }
+  ],
+  "rule": "If an approval blocker appears, prepare it and continue to the next autonomous action rather than stopping."
+}
