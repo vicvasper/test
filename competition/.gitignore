@@ -1,0 +1,16 @@
+# Never commit competition data or anything derived from it.
+data/
+data-demo/
+train_*.csv
+test_*.csv
+*_transcripts/
+
+# Trained artifacts and caches
+submission_src/model/*.pkl
+submission_src/model/metrics.json
+training/.feature_cache.pkl
+submission/
+*.zip
+
+__pycache__/
+*.py[co]
